@@ -1,0 +1,26 @@
+{
+  "name": "mqtt-reactjs-hooks",
+  "version": "1.0.0",
+  "description": "ReactJS library for Pub/Sub communication with an MQTT broker using Hooks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mqtt",
+    "react",
+    "hooks",
+    "context"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hadifikri/mqtt-reactjs-hooks.git"
+  },
+  "homepage": "https://github.com/hadifikri/mqtt-reactjs-hooks#readme",
+  "author": "Abdul Hadi Fikri",
+  "dependencies": {
+    "mqtt": "^4.3.4",
+    "mqtt-pattern": "^1.2.0",
+    "react": "^17.0.2"
+  }
+}
