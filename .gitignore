@@ -55,7 +55,6 @@ typings
 .env*
 
 # Library
-dist/
 typings/
 
 # gatsby files
