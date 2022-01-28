@@ -1,4 +1,4 @@
-import { connect } from './dist/mqtt';
+import { connect } from 'mqtt/dist/mqtt';
 import React from 'react';
 import { MqttContext } from './MqttContext';
 
