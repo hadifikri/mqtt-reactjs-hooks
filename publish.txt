@@ -1,0 +1,5 @@
+0. npm login
+1. install dependencies `npm i`
+2. edit and update version number 
+3. build with `npm build`
+4. publish with `npm publish`

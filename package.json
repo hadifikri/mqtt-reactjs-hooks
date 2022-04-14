@@ -1,7 +1,7 @@
 {
   "name": "mqtt-reactjs-hooks",
   "description": "",
-  "version": "1.0.14",
+  "version": "1.0.15",
   "main": "dist/index.js",
   "module": "dist/index.js",
   "files": [
@@ -48,5 +48,16 @@
     "@babel/cli": "^7.16.8",
     "@babel/core": "^7.16.12",
     "@babel/preset-env": "^7.16.11"
-  }
+  },
+  "keywords": [
+    "mqtt",
+    "react",
+    "hooks"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hadifikri/mqtt-reactjs-hooks.git"
+  },
+  "homepage": "https://github.com/hadifikri/mqtt-reactjs-hooks#readme",
+  "author": "AbdulHadiFikri"
 }
